@@ -1,0 +1,8 @@
+#ignore below files from version control
+*.txt
+*.mp3
+*.jpeg
+*.exe
+*.java
+*.mp4
+*.bmp
