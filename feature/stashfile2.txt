@@ -1,0 +1,1 @@
+This is feature code stashfile2 in feature folder of feature brnch by devloper1 
