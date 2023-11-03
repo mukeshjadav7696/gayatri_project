@@ -1,5 +1,5 @@
 #ignore below files from version control
-#*.txt
+*.txt
 *.mp3
 *.jpeg
 *.exe
